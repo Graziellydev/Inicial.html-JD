@@ -7,7 +7,6 @@
 <body>
 	<center>
 		<img src="icecream.png" height="340px" width="340px">
-
 	<h1>Boa Noite a todos1</h1>
 	<h2>Boa Noite2</h2>
 	<h3>Boa Noite3</h3>
